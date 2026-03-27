@@ -8,14 +8,12 @@ class ZakatAlfitrCalculator{
 
         System.out.println("<===Welcome To Zakat Al-fitr Calculator===>");
         System.out.println("");
-
+        
         System.out.print("===> Enter The Number Of Family Members : ");
-
         int familyMembers = S.nextInt();
         System.out.println("");
 
         System.out.print("===> Enter The Category Of Zakat : (1-Rice | 2-Dates) : ");
-
         int zakatCategory = S.nextInt();
         System.out.println("");
 
